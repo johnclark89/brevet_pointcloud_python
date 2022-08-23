@@ -8,7 +8,7 @@ Notebooks :
 
 + Lecture des métadonnées d'un fichier .las/.laz
 + Visualisation de l'emprise des données
-+ Découpage (crop)
++ Découpage
 + Visualisation avec Ipyvolume
 
 
