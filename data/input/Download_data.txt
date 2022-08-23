@@ -1,0 +1,6 @@
+Github ne permettant pas l'hébergement de grand fichier, voici les liens pour télécharger les fichiers .las à extraire à la racine de ce répertoire.
+
+https://data.geo.admin.ch/ch.swisstopo.swisssurface3d/swisssurface3d_2018_2560-1144/swisssurface3d_2018_2560-1144_2056_5728.las.zip
+https://data.geo.admin.ch/ch.swisstopo.swisssurface3d/swisssurface3d_2018_2560-1145/swisssurface3d_2018_2560-1145_2056_5728.las.zip
+https://data.geo.admin.ch/ch.swisstopo.swisssurface3d/swisssurface3d_2018_2561-1144/swisssurface3d_2018_2561-1144_2056_5728.las.zip
+https://data.geo.admin.ch/ch.swisstopo.swisssurface3d/swisssurface3d_2018_2561-1145/swisssurface3d_2018_2561-1145_2056_5728.las.zip
