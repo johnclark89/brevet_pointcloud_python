@@ -22,4 +22,4 @@ Notebooks :
 
 ## 04_Indexation_Visualisation
 
-+ Indexation avec entwine de plusieurs tuiles swissSURFACE3D et visualisation avec Potree
++ Indexation avec Entwine de plusieurs tuiles swissSURFACE3D et visualisation avec Potree
